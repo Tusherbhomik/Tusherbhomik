@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://www.southernliving.com/thmb/a4b73J7C4S4wgSmymmEgXRCmACA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-185743593-2000-507c6c8883a44851885ea4fbc10a2c9e.jpg)
 
-I am from Bangladesh. Currently persuing my undergraduate degree in Computer Science and EngineeringI really enjoy learning languages ,frameworks like React and explore different fields of computer science currently . I alos enjoy wireframing ui design in general.
+I am from Bangladesh. Currently persuing my undergraduate degree in Computer Science and EngineeringI really enjoy learning languages, frameworks like React and explore different fields of computer science currently. I alos enjoy wireframing ui design in general.
 
 ## Skills and Experiences
 REACT / JS / HTML / CSS
