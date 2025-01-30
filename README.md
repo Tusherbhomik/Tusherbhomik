@@ -1,10 +1,8 @@
 ### Hi there 👋, Tusher Bhomik
 #### Design and Development
-![Design and Development](https://www.southernliving.com/thmb/a4b73J7C4S4wgSmymmEgXRCmACA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-185743593-2000-507c6c8883a44851885ea4fbc10a2c9e.jpg)
-
 I am from Bangladesh. I really enjoy learning languages ,frameworks like React and explore different fields of computer science currently . I also enjoy wireframing ui design in general. 
 
-## Skills: REACT / JS / HTML / CSS
+## Skills: NEXT / REACT / JS / HTML / CSS / CPP / JAVA / Python
 
 - 🔭 I’m currently working on Studying in CSE in BUET
   
