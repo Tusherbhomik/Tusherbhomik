@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tusher Bhomik
 
-#### 🚀 Full-Stack Developer | 💻 Computer Science Enthusiast 
+#### 🚀 Full-Stack Developer | 💻 Computer Science Enthusiast | LLM Enthusiast
 
 I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & Engineering at BUET**. I love exploring new technologies, building projects, and designing intuitive user interfaces. My passion lies in creating seamless web experiences and solving real-world problems through code.
 
