@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Tusher Bhomik
-
 #### 🚀 Full-Stack Developer | 💻 Computer Science Enthusiast | LLM Enthusiast
 
 I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & Engineering at BUET**. I love exploring new technologies, building projects, and designing intuitive user interfaces. My passion lies in creating seamless web experiences and solving real-world problems through code.
@@ -30,8 +29,13 @@ I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & E
 ### 📊 GitHub Stats
 
 [![Tusher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusherbhomik&show_icons=true&theme=radical)](https://github.com/Tusherbhomik)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusherbhomik&layout=compact&theme=radical)](https://github.com/Tusherbhomik)
+
+---
+
+### 🧩 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tusher_bhomik?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/tusher_bhomik/)
 
 ---
 
