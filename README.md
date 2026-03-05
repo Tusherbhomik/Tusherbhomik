@@ -29,8 +29,8 @@ I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & E
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusherbhomik&show_icons=true&theme=radical&cache_seconds=1800&v=2" alt="Tusher's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusherbhomik&layout=compact&theme=radical&cache_seconds=1800&v=2" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tusherbhomik&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusherbhomik&theme=radical" height="165" />
 </p>
 
 <p align="left">
