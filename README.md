@@ -28,14 +28,22 @@ I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & E
 
 ### 📊 GitHub Stats
 
-[![Tusher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusherbhomik&show_icons=true&theme=radical)](https://github.com/Tusherbhomik)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusherbhomik&layout=compact&theme=radical)](https://github.com/Tusherbhomik)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusherbhomik&show_icons=true&theme=radical" alt="Tusher's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusherbhomik&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusherbhomik&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tusher_bhomik?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/tusher_bhomik/)
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/tusher_bhomik?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
