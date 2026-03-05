@@ -57,10 +57,4 @@ I'm from **Bangladesh**, currently pursuing my studies in **Computer Science & E
 
 ---
 
-### 🎨 Fun Fact
-
-I enjoy **wireframing and UI/UX design** in my free time. Designing beautiful and functional interfaces is one of my passions!
-
----
-
 Made with ❤️ by **Tusher Bhomik**
