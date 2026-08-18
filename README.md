@@ -1,43 +1,69 @@
-#### Hi there 👋 I'm Tusher Bhomik
+<h1 align="center">Tusher Bhomik</h1>
 
-Undergrad Student | CSE @ BUET  
-LLM Enthusiast | Reinforcement Learning Enthusiast
+<p align="center">
+  <a href="https://tusherbhomik.github.io">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Machine+Learning+Engineer+%40+ACI+Limited;LLM+post-training+%C2%B7+tool+use+%C2%B7+agent+reliability;Python+%C2%B7+PyTorch+%C2%B7+Hugging+Face+%C2%B7+vLLM" alt="Machine Learning Engineer" />
+  </a>
+</p>
 
----
-
-#### Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-412991?logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-#### LeetCode
-
-<p align="left">
-  <img 
-    src="https://leetcard.jacoblin.cool/tusher_bhomik?theme=dark&font=Karma&ext=heatmap" 
-    alt="LeetCode Stats"
-    width="380"
-  />
+<p align="center">
+  <a href="https://tusherbhomik.github.io">Portfolio</a> ·
+  <a href="https://huggingface.co/tusherbhomik">Hugging Face</a> ·
+  <a href="https://www.linkedin.com/in/tusher-bhomik-99b048226/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/tusher_bhomik/">LeetCode</a> ·
+  <a href="mailto:tusherbhomik@gmail.com">Email</a>
 </p>
 
 ---
 
-#### Connect
+### Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Tusherbhomik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusher-bhomik-99b048226/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tusher.bhowmick.8083/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tusher_bhomik/)
+**Function calling in open-source LLMs** — synthetic data for multi-hop tool use, SFT and RL post-training (GRPO / DPO-family objectives), evaluation on BFCL.
+
+**Agentic security** — secure code execution by LLM agents, and a taxonomy of why multi-agent systems fail.
+
+**Evaluation** — benchmarks and LLM-as-a-judge pipelines for outputs that are hard to score automatically.
+
+---
+
+### Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,pytorch,tensorflow,sklearn&perline=8" alt="Languages and ML stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mongodb,docker,azure,linux,git&perline=8" alt="Backend and infrastructure" />
+</p>
+
+---
+
+### Problem solving
+
+<p align="center">
+  <img width="420" src="https://leetcard.jacoblin.cool/tusher_bhomik?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats" />
+</p>
+
+Daily practice in **C++** and **Python** — data structures, graphs, dynamic programming. The same habits show up in my ML work: small reproducible experiments, tight loops, measured before optimized.
+
+---
+
+### Selected work
+
+**[Research Paper RAG System](https://github.com/Tusherbhomik/Research-paper-rag-system)** — end-to-end arXiv ingestion pipeline with a retrieval API for semantic search and QA. *Python, FastAPI, ChromaDB, SQL*
+
+**[HealthSync](https://github.com/Tusherbhomik/Health_Sync)** — healthcare platform for appointments, digital prescriptions, and medical history; containerized and deployed through CI/CD. *Spring Boot, React, PostgreSQL, Docker, Azure*
+
+**[Enhanced xv6-riscv Kernel](https://github.com/Tusherbhomik/CSE-314-Operating-System)** — MLFQ scheduler with aging, kernel-level threading, custom system calls. *C, Assembly*
+
+**[Mini C Compiler](https://github.com/Tusherbhomik/CSE-310-Compiler-Design)** — a C compiler built from scratch, emitting 8086 assembly. *C, 8086 Assembly*
+
+---
+
+### Activity
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Tusherbhomik&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tusherbhomik&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+</p>
