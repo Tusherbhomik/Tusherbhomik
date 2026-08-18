@@ -18,11 +18,9 @@
 
 ### Focus
 
-**Function calling in open-source LLMs** — synthetic data for multi-hop tool use, SFT and RL post-training (GRPO / DPO-family objectives), evaluation on BFCL.
-
-**Agentic security** — secure code execution by LLM agents, and a taxonomy of why multi-agent systems fail.
-
-**Evaluation** — benchmarks and LLM-as-a-judge pipelines for outputs that are hard to score automatically.
+<p align="center">
+  <code>LLMs</code> · <code>Agents</code> · <code>Agent Security</code> · <code>Medical Data</code>
+</p>
 
 ---
 
