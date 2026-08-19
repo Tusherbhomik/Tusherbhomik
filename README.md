@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tusherbhomik.github.io">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Machine+Learning+Engineer+%40+ACI+Limited;LLM+post-training+%C2%B7+tool+use+%C2%B7+agent+reliability;Python+%C2%B7+PyTorch+%C2%B7+Hugging+Face+%C2%B7+vLLM" alt="Machine Learning Engineer" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Machine+Learning+Engineer+%40+ACI+Limited;LLMs+%C2%B7+Agents+%C2%B7+Agent+Security+%C2%B7+Medical+Data;Python+%C2%B7+PyTorch+%C2%B7+Hugging+Face+%C2%B7+vLLM" alt="Machine Learning Engineer" />
   </a>
 </p>
 
@@ -50,9 +50,11 @@ Daily practice in **C++** and **Python** — data structures, graphs, dynamic pr
 
 **[HealthSync](https://github.com/Tusherbhomik/Health_Sync)** — healthcare platform for appointments, digital prescriptions, and medical history; containerized and deployed through CI/CD. *Spring Boot, React, PostgreSQL, Docker, Azure*
 
-**[Enhanced xv6-riscv Kernel](https://github.com/Tusherbhomik/CSE-314-Operating-System)** — MLFQ scheduler with aging, kernel-level threading, custom system calls. *C, Assembly*
+**[Enhanced xv6-riscv Kernel](https://github.com/Tusherbhomik/BUET-CSE-Archive/tree/main/Sessional/level-3/CSE-314-Operating-System-Sessional)** — MLFQ scheduler with aging, kernel-level threading, custom system calls. *C, Assembly*
 
-**[Mini C Compiler](https://github.com/Tusherbhomik/CSE-310-Compiler-Design)** — a C compiler built from scratch, emitting 8086 assembly. *C, 8086 Assembly*
+**[Mini C Compiler](https://github.com/Tusherbhomik/BUET-CSE-Archive/tree/main/Sessional/level-3/CSE-310-Compiler-Sessional)** — a C compiler built from scratch, emitting 8086 assembly. *C, 8086 Assembly*
+
+**[Computer Graphics: Rasterizer & Ray Tracer](https://github.com/Tusherbhomik/BUET-CSE-Archive/tree/main/Sessional/level-4/CSE-410-Computer-Graphics-Sessional)** — a software rasterization pipeline and a ray tracer built from scratch, with OpenGL scene demos. *C++, OpenGL*
 
 ---
 
